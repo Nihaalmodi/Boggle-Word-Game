@@ -1,4 +1,5 @@
 # Boggle-Word-Game
+Problem Statement: 
 
 Boggle is a word game that is played on a 4x4 board with 16 letter tiles. The goal is to find as many words as possible. 
 You are given a [dictionary](https://gist.github.com/monarch0111/bfd0c289c4aba000359b5386fedc7d96) (contains all the valid english word) and a board as string in format `A, C, E, D, L, U, G, I, E, F, H, T, G, A, F, K`
@@ -19,3 +20,6 @@ Constraints while finding the word:
 You need to implement a method `findWords` which accepts a parameter board(comma seperated string) and return an Array of words.
 
 You are free to use any programming language / framework you want to.
+
+Language used : Python 3
+Additional Library required : numpy
