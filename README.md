@@ -22,4 +22,5 @@ You need to implement a method `findWords` which accepts a parameter board(comma
 You are free to use any programming language / framework you want to.
 
 Language used : Python 3
+
 Additional Library required : numpy
